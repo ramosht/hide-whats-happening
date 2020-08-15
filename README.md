@@ -1,0 +1,1 @@
+Pensando em lidar com a ansiedade, mas sem precisar deletar meu Twitter, desenvolvi essa extensão com o objetivo de esconder a seção "What's Happening" (O que está acontecendo), que tanto contribuía pra me deixar cada vez mais ansioso com tanta notícia negativa.

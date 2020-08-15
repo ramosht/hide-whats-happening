@@ -1,0 +1,14 @@
+{
+  "name": "Hide what's new",
+  "version": "1.0",
+  "description": "Hide the \"What's new\" section on twitter.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["content.js"],
+      "css" : ["content.css"]
+    }
+  ],
+  "manifest_version": 2
+}
